@@ -1,0 +1,93 @@
+000 Computer sciences, information & general works 
++010 Bibliographies  
++011  Bibliographies 
++020 Library & information sciences 
++021 Library relationships
++080 Quotations 
++081 General collections American
++090 Manuscripts & rare books 
++091 Manuscripts
++098 Prohibited works, forgeries, hoaxes
+100 Philosophy 
++100 Philosophy 
++101 Theory of philosophy
++106 Organizations of philosophy
++120 Epistemology 
++123 Determinism & indeterminism
++124 Teleology
+150 Psychology 
++156 Comparative psychology
+200 Religion
++200 Religion 
++206 Organizations of Christianity
++240 Christian practice & observance 
++249 Christian observances in family life
++250 Christian orders & local church
++253  Pastoral office & work 
++270 History of Christianity 
++278 Christian church in South America
++290 Other religions 
++292 Classical (Greek & Roman) religion
+300 Social sciences 
++310 Statistics 
++316 General statistics Of Africa
++330 Economics
++331 Labour economics
++335  Socialism & related systems 
++350  Public administration & military science 
++358 there specialized forces & services
++359 Sea (Naval) forces & warfare
+400 Language
++400 Language
++409 Geographical & persons treatment
++420 English & Old English languages 
++428 Standard English usage
++429 Old English (Anglo-Saxon)
++470 Latin & Italic languages 
++477 Old, Postclassical, Vulgar Latin
++478 Classical Latin usage
+500 Science
++510 Science
++513 Arithmetic
++514 Topology
++515 Analysis
++516 Geometry
++570 Life Science; biology
++576 Microbiology
+600 Technology
++600 Technology
++608 Invention & patents
++630 Agriculture
++639 Hunting, fishing, conservation
++640 Home and family management 
++648 Housekeeping
++650 Management and public Relations 
++659 Advertising & public relations
++660 Chemical engineering
++661 Industrial chemicals
+700 Arts & recreation 
++710 Civic & landscape art
++712 Landscape architecture
++720 Architecture
++729 Design & decoration
++740 Drawing & decorative arts
++741 Drawing & drawings
++780 Music
++782 Vocal music
++783 Music for single voices The voice
+800 Literature 
++830 Literatures of Germanic languages 
++836 German dialect literature
++837 German-American
++838 German miscellaneous writings
++860 Spanish & Portuguese literatures 
++867 Catalan
++868 Portuguese
+900 History & geography 
++950 History of Asia; Far East
++956 General history of Asia Middle East (Near East)
++957 General history of Asia Siberia (Asiatic Russia)
++958 General history of Asia Central Asia
++960 History of Africa
++961 General history of Africa Tunisia & Libya
++962 General history of Africa Egypt & Sudan
